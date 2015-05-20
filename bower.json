@@ -23,6 +23,12 @@
   ],
   "license": ["OFL-1.1", "MIT"],
   "ignore": [
-    "**/.*"
+    "**/.*",
+    "less/*",
+    "scss/*",
+    "*.txt",
+    "*.md",
+    "README",
+    "css/lato-webfont.css"
   ]
 }
