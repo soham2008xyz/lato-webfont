@@ -7,9 +7,7 @@
   ],
   "description": "Lato Webfont optimized for Bower, gulp-flatten and wiredep",
   "main": [
-      "./css/lato-webfont.css",
-      "./less/lato-webfont.less",
-      "./sass/lato-webfont.scss",
+      "./css/lato-webfont.min.css",
       "./fonts/*"
   ],
   "keywords": [
